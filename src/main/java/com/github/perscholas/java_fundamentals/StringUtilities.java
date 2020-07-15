@@ -1,5 +1,7 @@
 package com.github.perscholas.java_fundamentals;
 
+import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
+
 /**
  * Created by Leon Hunter on 6/14/17.
  */
@@ -8,7 +10,8 @@ public class StringUtilities {
      * @return `Hello World` as a string
      */
     public static String getHelloWorld() {
-        return null;
+
+        return "Hello World";
     }
 
     /**

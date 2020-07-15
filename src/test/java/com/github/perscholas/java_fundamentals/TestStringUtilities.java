@@ -17,6 +17,7 @@ public class TestStringUtilities {
         String actual = StringUtilities.getHelloWorld();
 
         // : Then
+
         assertEquals(expected, actual);
 
     }
